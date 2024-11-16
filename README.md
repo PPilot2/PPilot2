@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, Java, Rust, SQL, MongoDB
-- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django, Keras, Tkinter
+- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django, Keras, Tkinter, Electron
 - **Tools**: Git, Firebase, Docker, Kubernetes, Google Cloud, AWS, Matplotlib, Numpy, Pandas
 
 ---
@@ -23,7 +23,7 @@
 ### Improving the detection of penicillium in citrus sinensis with a CNN.
 
 ## [🖊️ Jotted](https://github.com/PPilot2/Jotted)
-### A file hub where you can create and edit files safely and securely.
+### A file hub where you can create and edit files safely and securely created with electron.
 ---
 
 ## 🎯 Let's Connect!
