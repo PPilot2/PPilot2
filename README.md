@@ -6,9 +6,9 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, Java, Rust
-- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django
-- **Tools**: Git, Firebase, Docker, Google Cloud, AWS
+- **Languages**: JavaScript, Python, Java, Rust, SQL, MongoDB
+- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django, Keras, Tkinter
+- **Tools**: Git, Firebase, Docker, Kubernetes, Google Cloud, AWS, Matplotlib, Numpy, Pandas
 
 ---
 
