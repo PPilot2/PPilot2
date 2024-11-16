@@ -13,7 +13,7 @@
 ---
 
 ## 🌟 Featured Projects
-### [📈 K_shot-GAN-synthetic-data](https://github.com/PPilot2/k_shot-GAN-synthetic-data)
+## [📈 K_shot-GAN-synthetic-data](https://github.com/PPilot2/k_shot-GAN-synthetic-data)
 ### Improving the generation of synthetic data in LLMs using k-shot prompting and a GAN.
 
 ## [📊 JSON, CSV, and XML Data Generation](https://github.com/PPilot2/JSON-Visualizer)
