@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm [Prahalad Anand] 👋
 
-<!--
-**PPilot2/PPilot2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Web Developer | Machine Learning**  
+🌟 Passionate about building unique projects and solving real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, Java, Rust
+- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django
+- **Tools**: Git, Firebase, Docker, Google Cloud, AWS
+
+---
+
+## 🌟 Featured Projects
+### [📊 JSON, CSV, and XML Data Generation](https://github.com/PPilot2/JSON-Visualizer)
+Visualizes JSON, XML, and CSV data into beautiful flowcharts, trees, and data tables using GoJS.
+
+### [📈 K_shot-GAN-synthetic-data](https://github.com/PPilot2/k_shot-GAN-synthetic-data)
+Improving the generation of synthetic data in LLMs using k-shot prompting and a GAN.
+
+### [🕵️ Penicillium-detection-in-citrus-sinensis](https://github.com/PPilot2/Penicillium-detection-in-citrus-sinensis)
+Improving the detection of penicillium in citrus sinensis with a CNN.
+---
+
+## 🎯 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahalad-anand-524636297/)  
+
+---
+
+💡 *"The best way to predict the future is to create it."*
