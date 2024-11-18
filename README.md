@@ -27,8 +27,7 @@
 ---
 
 ## Stats
-![Prahalad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PPilot2&show_icons=true&theme=gruvbox)
-![Prahalad's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=PPilot2&show_icons=true&theme=gruvbox&layout=compact)
+![Prahalad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PPilot2&show_icons=true&theme=gruvbox)\
 
 ## 🎯 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahalad-anand-524636297/)  
