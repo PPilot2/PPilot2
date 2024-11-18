@@ -2,7 +2,9 @@
 
 🚀 **Web Developer | Machine Learning**  
 🌟 Passionate about building unique projects and solving real-world problems.  
-----
+
+---
+
 ## 🎯 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prahalad-anand-524636297/) 
 ---
