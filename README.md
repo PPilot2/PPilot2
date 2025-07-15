@@ -17,17 +17,20 @@
 ---
 
 ## 🌟 Featured Projects
+## [🖊️ Jotted](https://github.com/PPilot2/collaborative-code-editor)
+### A web-based, multi-file code editor with live code execution, supporting multiple programming languages.
+
 ## [📈 K_shot-GAN-synthetic-data](https://github.com/PPilot2/k_shot-GAN-synthetic-data)
 ### Improving the generation of synthetic data in LLMs using k-shot prompting and a GAN.
+
+## [🧑‍💻 Dev Extension](https://github.com/PPilot2/dev-extension)
+### Chrome extension which links to Github accounts in order to display prs.
 
 ## [📊 JSON, CSV, and XML Data Generation](https://github.com/PPilot2/JSON-Visualizer)
 ### Visualizes JSON, XML, and CSV data into beautiful flowcharts, trees, and data tables using GoJS.
 
 ## [🕵️ Penicillium-detection-in-citrus-sinensis](https://github.com/PPilot2/Penicillium-detection-in-citrus-sinensis)
 ### Improving the detection of penicillium in citrus sinensis with a CNN.
-
-## [🖊️ Jotted](https://github.com/PPilot2/Jotted)
-### A file hub where you can create and edit files safely and securely created with electron.
 ---
 
 ## Stats
