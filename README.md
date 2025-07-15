@@ -17,7 +17,7 @@
 ---
 
 ## 🌟 Featured Projects
-## [🖊️ Jotted](https://github.com/PPilot2/collaborative-code-editor)
+## [🖊️ Collaborative Code Editor](https://github.com/PPilot2/collaborative-code-editor)
 ### A web-based, multi-file code editor with live code execution, supporting multiple programming languages.
 
 ## [📈 K_shot-GAN-synthetic-data](https://github.com/PPilot2/k_shot-GAN-synthetic-data)
