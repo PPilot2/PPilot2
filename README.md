@@ -10,9 +10,10 @@
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages**: JavaScript, Python, Java, Rust, SQL, MongoDB
-- **Frameworks**: React, Flask, TensorFlow, Pytorch, Django, Keras, Tkinter, Electron
-- **Tools**: Git, Firebase, Docker, Kubernetes, Google Cloud, AWS, Matplotlib, Numpy, Pandas
+- **Languages**: JavaScript, Python, Java, Rust, C++, SQL, MongoDB
+- **Frameworks**: React, Next, Vue, Flask, Django, PyTorch, Tensorflow, Scikit-learn, Tkinter, Electron
+- **Tools & Platforms**: Git, Firebase, Docker, Kubernetes, Google Cloud, AWS, Matplotlib, Numpy, Pandas
+- **Design**: Canva, LaTeX, Overleaf, Figma
 
 ---
 
